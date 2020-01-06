@@ -5,9 +5,9 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package org.usfirst.frc3397.UnamedRobot.commands;
+package org.usfirst.frc3397.Aurora2019.commands;
 
-import org.usfirst.frc3397.UnamedRobot.subsystems.Hatch;
+import org.usfirst.frc3397.Aurora2019.subsystems.Hatch;
 
 import edu.wpi.first.wpilibj.command.Command;
 
